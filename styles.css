@@ -1,2 +1,27 @@
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 50vw;
+    margin-left: 100px;
+    text-align: start;
+    margin-top: 10px;
+    color: inherit;
+}
 
-/* Your CSS Code here. */
+.A {
+    background-color: red;
+}
+
+.B {
+    background-color:pink;
+}
+
+.C {
+    background-color:brown;
+}
+
+.D {
+    background-color:yellow;
+}
